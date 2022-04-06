@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Bethany
-Template URL: https://bootstrapmade.com/bethany-free-onepage-bootstrap-theme/
+Template Name: Ninestars
+Template URL: https://bootstrapmade.com/ninestars-free-bootstrap-3-theme-for-creative/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
